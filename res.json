@@ -1,0 +1,14 @@
+{
+    "pothole 1": {
+        "confidence": 0.80,
+        "height": 100,
+        "width": 100,
+        "depth": 100    
+    },
+    "pothole 2": {
+        "confidence": 0.80,
+        "height": 100,
+        "width": 100,
+        "depth": 100    
+    }
+}
